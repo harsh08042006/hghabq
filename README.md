@@ -1,9 +1,10 @@
+//on click count change in background colour using sswitch
 <!DOCTYPE html>
 <html>
 <head>
     <title>background change</title>
 <link rel="stylesheet" href="rcg2.css">
-    
+     
 </head>
 <body  id="bd">
 
